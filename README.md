@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Juna's's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlawnsdk&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlawnsdk&hide_progress=true)](https://github.com/dlawnsdk/github-readme-stats)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
