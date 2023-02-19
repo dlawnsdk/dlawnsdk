@@ -30,20 +30,20 @@ Here are some ideas to get you started:
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=Svelte&logoColor=white)
 
 ## 💪Skills
-### + Languages
++ ### Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
-### + Library or Framework
++ ### Library or Framework
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=Svelte&logoColor=white)
 
-### + Tools
++ ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm%20IDE-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
