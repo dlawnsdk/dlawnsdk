@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 ![Juna's's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlawnsdk&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlawnsdk&hide_progress=true)](https://github.com/dlawnsdk/github-readme-stats)
 
-# 🔭 I’m currently using 
+## 🔭 I’m currently using 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-# 🌱 I’m currently learning for
+## 🌱 I’m currently learning for
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=Svelte&logoColor=white)
 
-# 💪Skills
+## 💪Skills
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
