@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 ![PyCharm](https://img.shields.io/badge/PyCharm%20IDE-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA%20IDE-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 
-![ezgif com-resize](https://user-images.githubusercontent.com/85921424/220559025-0c85f0eb-f8e1-40e9-b77a-a221f872e007.gif)
+![KakaoTalk_20230222_220017678](https://user-images.githubusercontent.com/85921424/220627728-5ec3052e-fb7d-427e-b47d-58aad72781d2.gif)
 
