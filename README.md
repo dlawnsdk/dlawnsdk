@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=Svelte&logoColor=white)
-![Php](https://img.shields.io/badge/PHP-FF3E00.svg?&style=for-the-badge&logo=PHP&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-7377AE.svg?&style=for-the-badge&logo=PHP&logoColor=white)
 
 ## 🌱 Experience(etc)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
