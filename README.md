@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 💪 I’m currently learning at home
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-DC382D.svg?&style=for-the-badge&logo=Nest.js.js&logoColor#E0234E)
+![Nest.js](https://img.shields.io/badge/Nest-white.svg?&style=for-the-badge&logo=Nest.js&logoColor#E0234E)
 ![Vue.js](https://img.shields.io/badge/Vue-white.svg?&style=for-the-badge&logo=Vue.js&logoColor=#4FC08D)
 
 ## 🌱 Experience(etc)
